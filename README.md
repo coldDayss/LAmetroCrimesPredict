@@ -1,7 +1,7 @@
 # LAmetroCrimesPredict
 The Safety Prediction Using LA Metro Crime Statistics
 
-created by Youjin Ahn, Jeonggon Lee, Sinyeong Bak, Chanill Park
+Created by Youjin Ahn, Jeonggon Lee, Sinyeong Bak, Chanill Park at USC
 
 
 Data Provided by "Los Angeles Police Department"
