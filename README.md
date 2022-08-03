@@ -14,6 +14,7 @@ How to use?
 3) Enter the passenger's gender
 
 ======================result======================
+
 ex) You're a Asian female and riding RED|PURPLE line at 12:00-13:00
 the probability of a crime : 0.1015 ‱
 ...
@@ -21,3 +22,6 @@ The worst three cases was:
 1. ATTEMPTED ROBBERY
 2. ASSAULT WITH DEADLY WEAPON, AGGRAVATED ASSAULT
 3. THEFT-GRAND ($950.01 & OVER)EXCPT,GUNS,FOWL,LIVESTK,PROD
+
+development in progress
+-> Finding the minimum route and marking it on a map using the Dijkstra Algorithm
